@@ -1,2 +1,2 @@
 console.log("hello world");
-console.log(5+10)
+console.log(5+10);
